@@ -1,9 +1,9 @@
 div {
   background-color:#1C96FA ;
-  width: 70px;
+  width: 500px;
   border: 10px solid #FF1ACB ;
-  padding: 45px;
-  margin: 15px;
+  padding: 40px;
+  margin: 10px;
   text-align:center;
   display: flex;
   justify-content: space-around; 
@@ -11,7 +11,7 @@ div {
 }
 
 body{
-    background:url(https://airwallpaper.com/wp-content/uploads/wall003/Free-Download-Starry-Night-Computer-Wallpaper-scaled.jpg);
+    background:url(https://wallpaperaccess.com/full/240615.jpg);
 }
 
 h1 {
